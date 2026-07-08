@@ -1,13 +1,19 @@
 {
   "qq_number": "3559157110",
   "group_number": "1055556404",
+  "updated_at": "2026-07-08T08:13:24+00:00",
   "skins": [
     {
       "name": "遇の如何制作妹宝奶油卷",
       "file": "如何制作妹宝奶油卷.bdi",
       "thumb": "如何制作妹宝奶油卷.bdi_py_26_light_thumb.png",
       "full": "如何制作妹宝奶油卷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "遇の如何制作妹宝奶油卷",
+      "file": "如何制作妹宝奶油卷.bds",
+      "thumb": "如何制作妹宝奶油卷.bds_py_26_light_thumb.png",
+      "full": "如何制作妹宝奶油卷.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-08T08:07:38+00:00"
+  ]
 }
